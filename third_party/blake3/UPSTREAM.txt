@@ -1,0 +1,4 @@
+https://github.com/BLAKE3-team/BLAKE3
+Tag: 1.8.2
+C sources and x86-64 Unix assembly; NEON is not compiled.
+Licenses: LICENSE_A2, LICENSE_CC0; assembly includes LLVM exception where marked.
